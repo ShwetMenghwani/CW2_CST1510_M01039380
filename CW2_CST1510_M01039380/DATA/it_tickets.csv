@@ -1,0 +1,11 @@
+ticket_id,ticket_title,assigned_to,priority,status,description,reported_by
+1,Email login failure,John,High,Open,User unable to login to email account,Admin
+2,Printer not working,Sarah,Medium,Open,Office printer is not printing,Admin
+3,VPN connection issue,Mike,High,In Progress,VPN drops frequently,Admin
+4,Software installation request,Anna,Low,Open,Request to install new software on workstation,Admin
+5,Slow network,David,Medium,Open,Users report slow internet speed,Admin
+6,Computer won't start,Linda,High,Open,Desktop not powering on,Admin
+7,Password reset request,Bob,Low,Closed,User requested password reset,Admin
+8,Monitor flickering,Emma,Medium,In Progress,Screen flickers randomly,Admin
+9,Email spam issue,Tom,Low,Open,User receiving excessive spam emails,Admin
+10,Software crash alert,Alice,High,Open,Accounting software crashes on launch,Admin

@@ -1,0 +1,11 @@
+alice,$2b$12$FCoNmDsLJ1k9wZMOI3ca..rRE0c6zD3rg9wwKAIQPviLYqutSWtvq,analyst
+test_user,$2b$12$39n9H.hCGNmpGefhOV08WeH7tvB5MQBRqMf2lvWD47iFb4MHqPGh2,user
+alice2,$2b$12$BwIeDwl3EUKi//3tVtuese2sjQJYoWxjOcXwfddfHk/JPNho59ncC,analyst
+bob,$2b$12$VxGDH9UzUPPjqF5fvlp48.kylniWb3gaKvY156rRokyJWiYRxyUJG,datasci
+shwet,$2b$12$Ved/iB/r9/GVF9LqX5hErO9P47MQDmpV0iRl8dyBuStsxs7dsdKoC,cyber
+bob1,$2b$12$2D3G6XUnTsYEGLAo1ge.sOmBzzuTVlwfcT5f84mCTNUFW7kg8lXcq,datasci
+dave,$2b$12$ElRW3Tcvvq2QW8YnutAnluVc7fMvp8a8uCLVhZCxTUlsqFZ0PN3gq,datasci
+c,$2b$12$qHq.N5Prei8frsJkD1a5Z.tdg5NBpyjmOC0sZNLHiPet7lDNro0ZC,cyber
+d,$2b$12$yBW5f9yfIqtji/GVJ6KR.eT0e4fukmURjL7U0bRhCC3U0QN6Ldmpi,datasci
+jeek,$2b$12$FrTFps87CWvriz9Z2c0mNePey0BybgRiwjmqrfaPiru/YWncFdB.2,cyber
+i,$2b$12$1QKJUMUTP.z59OyhmROhgOfClZKiqNs6rkVoj2PfMDPZF9wQ039Be,itops

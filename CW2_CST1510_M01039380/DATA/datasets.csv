@@ -1,0 +1,6 @@
+id,dataset_name,category,source,last_updated,record_count,file_size_mb,created_at
+5,inventory Stock ,Operations, Warehouse DB,2025-12-04,2200,3.58,2025-12-05 17:32:43
+4,Product Reviews,Marketing,E-commerce API,2025-12-03,12000,8.1,2025-12-05 17:31:25
+3,Employee Records,HR,HR Database,2025-11-30,350,0.8,2025-12-05 17:30:44
+2,Website Traffic,Web Analytics,Google Analytics,2025-12-05,15000,5.2,2025-12-05 17:29:57
+1,Customer Sales Q1,Sales,Internal ERP,2025-12-05,5000,12.5,2025-12-05 17:22:05
